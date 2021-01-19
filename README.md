@@ -1,3 +1,3 @@
-# romolo-react
+# photobooth
 
-Redesign for the romolo.co.uk site.
+A photobooth to work with the raspberry pi
